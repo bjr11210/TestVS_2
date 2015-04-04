@@ -15,6 +15,8 @@ using System.Windows.Shapes;
 
 namespace WpfApplication2
 {
+    // Try to add some code which is only in new branch tbr2
+
     /// <summary>
     /// Interaction logic for MainWindow.xaml
     /// </summary>
